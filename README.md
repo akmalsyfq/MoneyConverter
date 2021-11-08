@@ -1,6 +1,6 @@
 # splash
 
-A new Flutter project.
+A new Flutter project. Assalamulaikum
 
 ## Getting Started
 
